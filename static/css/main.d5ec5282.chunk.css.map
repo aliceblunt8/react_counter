@@ -1,0 +1,1 @@
+{"version":3,"sources":["Counter.scss"],"names":[],"mappings":"AAAA,SACE,WAAY,CACZ,aAAc,CAEd,gBACE,eAAgB","file":"main.d5ec5282.chunk.css","sourcesContent":[".counter {\n  width: 200px;\n  margin: 0 auto;\n\n  &__title {\n    text-align: left;\n  }\n}\n"]}
